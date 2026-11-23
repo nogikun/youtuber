@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "ask": [
+      "Bash(uv run skills/yt-uploader/scripts/yt_uploader.py upload:*)",
+      "Bash(*yt_uploader.py*upload*)"
+    ]
+  }
+}
